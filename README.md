@@ -1,3 +1,2 @@
 # Practice
-PHP решение задач
-Code.mu
+PHP решение задач на Code.mu
